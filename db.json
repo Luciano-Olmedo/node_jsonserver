@@ -1,0 +1,99 @@
+{
+  "profesores": [
+    {
+      "nombre": "Luciano",
+      "apellido": "Olmedo",
+      "materias": [
+        {
+          "nombre": "React Js desde cero"
+        },
+        {
+          "nombre": "Node Js desde cero"
+        },
+        {
+          "nombre": "Tailwind Css desde cero"
+        }
+      ],
+      "id": "181a"
+    },
+    {
+      "0": {
+        "nombre": "Peniiita",
+        "apellido": "Rodriguez",
+        "materias": [
+          {
+            "nombre": "Herreria"
+          },
+          {
+            "nombre": "ballet"
+          }
+        ]
+      },
+      "id": "4594"
+    },
+    {
+      "0": {
+        "nombre": "pablo sebastian",
+        "apellido": "vogel",
+        "materias": [
+          {
+            "nombre": "Scrum Master"
+          }
+        ]
+      },
+      "id": "21ae"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Carlos",
+      "apellido": "Dacunda",
+      "promedio": 6.5,
+      "id": "0da4"
+    },
+    {
+      "0": {
+        "nombre": "Lionel",
+        "apellido": "Messi",
+        "promedio": 10
+      },
+      "id": "11b5"
+    },
+    {
+      "0": {
+        "nombre": "Joel",
+        "apellido": "zabala",
+        "promedio": 5
+      },
+      "id": "bfac"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "React Js",
+      "duracion": "8",
+      "dificultad": "intermedia",
+      "id": "57a2"
+    },
+    {
+      "nombre": "Node Js",
+      "duracion": 6,
+      "dificultad": "intermedia",
+      "id": "ea0f"
+    },
+    {
+      "nombre": "Tailwind css",
+      "duracion": 4,
+      "dificultad": "basica",
+      "id": "a0ae"
+    },
+    {
+      "0": {
+        "nombre": "IA DOMINATION",
+        "duracion": 10,
+        "dificultad": "dificil"
+      },
+      "id": "d4b0"
+    }
+  ]
+}
